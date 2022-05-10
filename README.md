@@ -1,10 +1,14 @@
 # movie_db_api
 
-A new Flutter project.
+Creating Movie App Using TMDB Rest API in Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeyi çalıştırmak için constants.dart dosyasındaki "API_URL", "IMAGE_URL", "API_KEY" lerini yazmanız gerekiyor
+
+- API_URL = https://api.themoviedb.org/3/
+- IMAGE_URL=https://image.tmdb.org/t/p/w500
+- API_KEY = "YOUR KEY"
 
 A few resources to get you started if this is your first Flutter project:
 
